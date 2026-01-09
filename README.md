@@ -1,4 +1,4 @@
-# Employee Performance Analytics
+# HR Analytics Project
 
 ## 📊 Project Overview
 Employee Performance Analytics is an end-to-end data analysis and visualization project focused on deriving actionable HR insights from employee data.  
